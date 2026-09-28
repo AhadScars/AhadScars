@@ -1,7 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,45:9a3412,100:0b1020&height=210&section=header&text=Abdul%20Ahad&fontSize=58&fontColor=fff7ed&animation=twinkling&fontAlignY=32&desc=Backend%20developer%20%C2%B7%20Delhi%20%C2%B7%20Spring%20Boot&descAlignY=56&descAlign=50&descSize=18" width="100%" alt="Abdul Ahad header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070b16,35:9a3412,70:f5c16c,100:070b16&height=230&section=header&text=Abdul%20Ahad&fontSize=60&fontColor=fff7ed&animation=twinkling&fontAlignY=30&desc=night%20shift%20%C2%B7%20Spring%20Boot%20%C2%B7%20Delhi&descAlignY=55&descAlign=50&descSize=18" width="100%" alt="Abdul Ahad header" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=700&color=F5C16C&center=true&vCenter=true&multiline=false&width=760&height=48&lines=REST+APIs+that+stay+quiet+in+production;JWT+%C2%B7+Spring+Security+%C2%B7+MySQL;Open+to+backend+roles+and+internships;Currently+building+hospital+systems+at+HSB" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2400&pause=600&color=F5C16C&center=true&vCenter=true&width=780&height=44&lines=%24+whoami+-+Abdul+Ahad;%24+stack+-+Spring+Boot+%C2%B7+JWT+%C2%B7+MySQL;%24+status+-+open+to+backend+roles;%24+now+-+hospital+APIs+at+HSB" alt="Terminal typing line" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/signal-OPEN%20TO%20WORK-14532d?style=for-the-badge&labelColor=052e16" alt="Open to work" />
+  <img src="https://img.shields.io/badge/base-DELHI-1c1917?style=for-the-badge&labelColor=0b1020" alt="Delhi" />
+  <img src="https://img.shields.io/badge/focus-JAVA%20BACKEND-9a3412?style=for-the-badge&labelColor=0b1020" alt="Java backend" />
+  <img src="https://img.shields.io/badge/mode-REMOTE%20OK-0f766e?style=for-the-badge&labelColor=042f2e" alt="Remote" />
 </p>
 
 <p align="center">
@@ -11,27 +18,46 @@
   <img src="https://komarev.com/ghpvc/?username=AhadScars&label=VISITORS&color=9a3412&style=for-the-badge" alt="Profile views" />
 </p>
 
-I design secure REST backends with **Spring Boot**, **JWT**, and **MySQL**. Clean architecture, role-based access, and APIs that are easy to page through when the data gets large. MCA from Mangalayatan University. Based in **Delhi**, open to remote work.
+<p align="center">
+  I build secure REST backends with <b>Spring Boot</b>, <b>JWT</b>, and <b>MySQL</b>.<br>
+  Clean architecture, role-based access, and APIs that stay easy to page when the tables get large.<br>
+  MCA, Mangalayatan University. Based in <b>Delhi</b>.
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:070b16,50:f5c16c,100:070b16&height=3&section=header" width="100%" alt="" />
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Now
+### ▸ Now
 
-- Intern, **Java backend** at HSB Info Tech, Hyderabad
-- Hospital APIs: patients, doctors, staff, JWT + RBAC
-- Previously built a Blog API at BasketHunt
-- Happy to collaborate on open source
+```text
+role     Java backend intern
+place    HSB Info Tech, Hyderabad
+system   hospital APIs
+auth     JWT + RBAC
+modules  patients · doctors · staff
+```
+
+Earlier: Blog API at BasketHunt. Open to open-source collabs.
 
 </td>
 <td width="50%" valign="top">
 
-### Ask me about
+### ▸ Ask me about
 
-`Java` `Spring Boot` `Spring Security` `JWT` `JPA` `Hibernate` `MySQL` `REST`
+<p>
+  <img src="https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=F5C16C" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security" />
+  <img src="https://img.shields.io/badge/JWT-111827?style=flat-square&logo=jsonwebtokens&logoColor=F5C16C" alt="JWT" />
+  <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="JPA" />
+  <img src="https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=F5C16C" alt="MySQL" />
+  <img src="https://img.shields.io/badge/REST-b45309?style=flat-square" alt="REST" />
+</p>
 
-Also shipping side work in **Laravel**, **JavaScript**, and **TypeScript**.
+Side work also ships in **Laravel**, **JavaScript**, and **TypeScript**.
 
 </td>
 </tr>
@@ -39,89 +65,143 @@ Also shipping side work in **Laravel**, **JavaScript**, and **TypeScript**.
 
 ## Clocks
 
-Live timers. They tick when this page is open.
+<p align="center"><i>Live timers. The seconds move while this page is open.</i></p>
 
 <p align="center">
-  <img src="https://awesometime.vercel.app/api?type=countdown&date=2026-11-20&label=3%20years%20on%20GitHub" alt="Countdown to 20 Nov 2026, three years since this GitHub account was created" />
-  &nbsp;
+  <img src="https://awesometime.vercel.app/api?type=countdown&date=2026-11-20&label=3%20years%20on%20GitHub" alt="Countdown to 20 Nov 2026" />
+  &nbsp;&nbsp;
   <img src="https://awesometime.vercel.app/api?type=countdown&date=2027-01-01&label=2027%20ship%20window" alt="Countdown to 1 Jan 2027" />
 </p>
 
 <p align="center">
-  <img src="https://awesometime.vercel.app/api?style=gradient&width=820&label=2026%20in%20motion" alt="How much of 2026 has already passed" width="820" />
+  <img src="https://awesometime.vercel.app/api?style=gradient&width=860&label=2026%20in%20motion" alt="How much of 2026 has passed" width="860" />
 </p>
 
-The left clock hits zero on **20 Nov 2026**, the day this account turns three. The right clock is the runway into the next build year.
+<p align="center">
+  Left clock hits zero on <b>20 Nov 2026</b>, the day this account turns three.<br>
+  Right clock is the runway into the next build year.
+</p>
 
-## On the bench
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070b16,100:9a3412&height=70&section=header&reversal=false&text=on%20the%20bench&fontSize=26&fontColor=fff7ed&fontAlignY=55&animation=fadeIn" width="100%" alt="On the bench" />
 
-| System | What it does | Stack |
-| --- | --- | --- |
-| [Secure Banking API](https://github.com/AhadScars/Secure-Banking-REST-API-Spring-Boot-JWT) | Accounts, deposits, withdrawals, transfers, history | Spring Boot, JWT, MySQL |
-| [E-Commerce](https://github.com/AhadScars/E-Commerce) | Products, cart, orders, admin CRUD | Spring Boot, JWT, RBAC |
-| [Blog API](https://github.com/AhadScars/blogApi) | Posts with pagination, filtering, roles | Spring Boot, JPA, Security |
-| [Hospital Management](https://github.com/AhadScars/HospitalManagment) | Appointments, doctors, hospital records | Spring Boot |
-| [Portfolio](https://ahadscars.github.io/portfolio/) | The longer version of this page | Live site |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/AhadScars/Secure-Banking-REST-API-Spring-Boot-JWT"><b>Secure Banking API</b></a><br>
+Accounts, deposits, withdrawals, transfers, full history.
+
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square" alt="" />
+<img src="https://img.shields.io/badge/JWT-111827?style=flat-square" alt="" />
+<img src="https://img.shields.io/badge/MySQL-0b1020?style=flat-square" alt="" />
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/AhadScars/E-Commerce"><b>E-Commerce</b></a><br>
+Products, cart, orders, and admin CRUD behind roles.
+
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square" alt="" />
+<img src="https://img.shields.io/badge/JWT-111827?style=flat-square" alt="" />
+<img src="https://img.shields.io/badge/RBAC-9a3412?style=flat-square" alt="" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/AhadScars/blogApi"><b>Blog API</b></a><br>
+Posts with pagination, filtering, and author versus reader roles.
+
+<img src="https://img.shields.io/badge/JPA-59666C?style=flat-square" alt="" />
+<img src="https://img.shields.io/badge/Security-6DB33F?style=flat-square" alt="" />
+<img src="https://img.shields.io/badge/MySQL-0b1020?style=flat-square" alt="" />
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/AhadScars/HospitalManagment"><b>Hospital Management</b></a><br>
+Appointments, doctors, and hospital records in one backend.
+
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square" alt="" />
+<img src="https://img.shields.io/badge/REST-b45309?style=flat-square" alt="" />
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://ahadscars.github.io/portfolio/"><img src="https://img.shields.io/badge/open%20the%20full%20portfolio-34d399?style=for-the-badge&logo=googlechrome&logoColor=052e16" alt="Open portfolio" /></a>
+</p>
 
 <details>
 <summary><b>More recent builds</b></summary>
 
 <br>
 
-- [Online Code Editor](https://online-code-editor-five-chi.vercel.app) · TypeScript
-- [SQL Lite Manager](https://sql-lite-manager.vercel.app) · browser SQLite tool
-- [Attendly](https://github.com/AhadScars/attendly) · attendance, Python
-- [Cawnpore Opticals](https://cawnpore-opticals.vercel.app) · storefront
-- [3D website demo](https://github.com/AhadScars/client-3d-website-demo) · client experiment
+| Build | Surface |
+| --- | --- |
+| [Online Code Editor](https://online-code-editor-five-chi.vercel.app) | TypeScript, live |
+| [SQL Lite Manager](https://sql-lite-manager.vercel.app) | Browser SQLite tool |
+| [Attendly](https://github.com/AhadScars/attendly) | Attendance, Python |
+| [Cawnpore Opticals](https://cawnpore-opticals.vercel.app) | Storefront |
+| [3D website demo](https://github.com/AhadScars/client-3d-website-demo) | Client experiment |
 
 </details>
 
-## Stack
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9a3412,100:070b16&height=70&section=header&text=stack&fontSize=26&fontColor=fff7ed&fontAlignY=55&animation=fadeIn" width="100%" alt="Stack" />
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,git,github,postman,idea,vscode,linux&theme=dark" alt="Core tools" />
 </p>
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,html,css,nodejs&theme=dark" alt="Also used" />
 </p>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/JWT-auth-111827?style=flat-square&logo=jsonwebtokens&logoColor=F5C16C" alt="JWT" />
   <img src="https://img.shields.io/badge/Spring%20Security-RBAC-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security" />
   <img src="https://img.shields.io/badge/JPA%2FHibernate-persistence-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="Hibernate" />
   <img src="https://img.shields.io/badge/REST-pagination%20%26%20filters-b45309?style=flat-square" alt="REST" />
 </p>
 
-## Pulse
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070b16,100:0f766e&height=70&section=header&text=pulse&fontSize=26&fontColor=fff7ed&fontAlignY=55&animation=fadeIn" width="100%" alt="Pulse" />
 
-<p>
-  <img src="https://streak-stats.demolab.com?user=AhadScars&hide_border=true&background=0B1020&ring=F5C16C&fire=F59E0B&currStreakLabel=F5C16C&sideLabels=E7E5E4&dates=A8A29E&stroke=1C1917" alt="GitHub streak" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AhadScars&hide_border=true&background=0B1020&ring=F5C16C&fire=F59E0B&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&stroke=1C1917" alt="GitHub streak" />
 </p>
 
-<p>
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhadScars&theme=github_dark" alt="Repositories by language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AhadScars&theme=github_dark" alt="Most used language" />
 </p>
 
-<p>
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhadScars&theme=github_dark" alt="Profile details" />
 </p>
 
-## Path
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,100:070b16&height=70&section=header&text=path&fontSize=26&fontColor=fff7ed&fontAlignY=55&animation=fadeIn" width="100%" alt="Path" />
 
-| When | Where | Focus |
-| --- | --- | --- |
-| Jul 2025 – now | HSB Info Tech, Hyderabad | Hospital backend, Spring Boot, JWT |
-| Dec 2024 – Jun 2025 | BasketHunt, Jharkhand | Blog REST API, MySQL, Spring Security |
-| 2023 – 2025 | Mangalayatan University | MCA, CGPA 7.65 |
-| 2020 – 2023 | Christ Church College, Kanpur | BA |
+```text
+2025 Jul  ──●  HSB Info Tech, Hyderabad
+               hospital backend · Spring Boot · JWT
 
----
+2024 Dec  ──●  BasketHunt, Jharkhand
+               Blog REST API · MySQL · Spring Security
+
+2023      ──●  Mangalayatan University
+               MCA · CGPA 7.65
+
+2020      ──●  Christ Church College, Kanpur
+               BA
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:070b16,50:f5c16c,100:070b16&height=3&section=header" width="100%" alt="" />
 
 <p align="center">
-  <b>If you are hiring a Java backend developer, or you want a second pair of eyes on an API,</b><br>
-  write to <a href="mailto:abdulindia.scars@gmail.com">abdulindia.scars@gmail.com</a>
-  or open the <a href="https://ahadscars.github.io/portfolio/">portfolio</a>.
+  <b>Hiring a Java backend developer, or want a second pair of eyes on an API?</b><br><br>
+  <a href="mailto:abdulindia.scars@gmail.com"><img src="https://img.shields.io/badge/write-abdulindia.scars@gmail.com-b45309?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Abdul Ahad" /></a>
+  <a href="https://ahadscars.github.io/portfolio/"><img src="https://img.shields.io/badge/read-the%20portfolio-34d399?style=for-the-badge&logo=googlechrome&logoColor=052e16" alt="Portfolio" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9a3412,100:0b1020&height=110&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f5c16c,40:9a3412,100:070b16&height=120&section=footer&reversal=true&animation=twinkling" width="100%" alt="" />
