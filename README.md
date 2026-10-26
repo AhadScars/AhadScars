@@ -40,7 +40,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,html,css,nodejs,vscode&perline=8&theme=dark" alt="Also used" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,html,css,nodejs,vscode&perline=6&theme=dark" alt="Also used" />
 </p>
 
 <p align="center">
@@ -58,8 +58,6 @@
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
   <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:eab308,100:ec4899&height=110&section=header&text=github%20pulse&fontSize=32&fontColor=ffffff&fontAlignY=65&animation=twinkling" width="100%" alt="GitHub pulse" />
@@ -81,12 +79,12 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/wL1imqlTIm">
-    <img src="https://leetcard.jacoblin.cool/wL1imqlTIm?theme=dark&font=JetBrains_Mono&ext=heatmap&border=0&radius=16&hide=ranking&colors=1a1033,2e1065,fde68a,ffffff,22c55e,f59e0b,f43f5e,a855f7" alt="LeetCode stats" />
+    <img src="leetcode.svg" alt="Abdul Ahad on LeetCode" />
   </a>
 </p>
 
 <p align="center">
-  Solved counts and the yearly heatmap refresh on their own.
+  Solved counts and the yearly heatmap refresh each day.
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,35:f59e0b,70:22c55e,100:6366f1&height=140&section=footer&reversal=true&animation=twinkling" width="100%" alt="" />

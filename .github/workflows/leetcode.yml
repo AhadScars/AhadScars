@@ -1,0 +1,46 @@
+name: Refresh LeetCode card
+
+on:
+  schedule:
+    - cron: "30 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download the card and write the display name
+        run: |
+          curl -fsSL "https://leetcard.jacoblin.cool/wL1imqlTIm?theme=dark&font=JetBrains_Mono&ext=heatmap&border=0&radius=16&hide=ranking&animation=false&colors=1a1033,2e1065,fde68a,ffffff,22c55e,f59e0b,f43f5e,a855f7" -o leetcode.svg
+          python3 - << 'PY'
+          from pathlib import Path
+          path = Path("leetcode.svg")
+          text = path.read_text()
+          username = ">wL1imqlTIm</text>"
+          if text.count(username) != 1:
+              raise SystemExit(f"expected 1 username text node, found {text.count(username)}")
+          text = text.replace(username, ">Abdul Ahad</text>", 1)
+          text = text.replace(
+              "wL1imqlTIm | LeetCode Stats Card",
+              "Abdul Ahad | LeetCode Stats Card",
+              1,
+          )
+          path.write_text(text)
+          PY
+
+      - name: Commit when the card changed
+        run: |
+          git config user.name "Abdul Ahad"
+          git config user.email "151500054+AhadScars@users.noreply.github.com"
+          git add leetcode.svg
+          if git diff --cached --quiet; then
+            echo "No card change"
+            exit 0
+          fi
+          git commit -m "Refresh LeetCode card"
+          git push
