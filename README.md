@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,25:db2777,50:f59e0b,75:22c55e,100:0ea5e9&height=240&section=header&text=Abdul%20Ahad&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=30&desc=Java%20backend%20%C2%B7%20Delhi%20%C2%B7%20Spring%20Boot&descAlignY=55&descAlign=50&descSize=18" width="100%" alt="Abdul Ahad" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=500&color=F472B6&center=true&vCenter=true&width=760&height=48&lines=Spring+Boot+%C2%B7+JWT+%C2%B7+MySQL;REST+APIs+with+quiet+edges;Open+to+backend+roles;Based+in+Delhi" alt="Typing line" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=500&color=F472B6&center=true&vCenter=true&width=900&height=50&lines=Spring+Boot+%C2%B7+JWT+%C2%B7+MySQL;REST+APIs+with+quiet+edges;Open+to+backend+roles;Based+in+Delhi" width="100%" alt="Typing line" />
 </p>
 
 <p align="center">
@@ -19,67 +19,90 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:a855f7&height=110&section=header&text=live%20clocks&fontSize=32&fontColor=ffffff&fontAlignY=65&animation=twinkling" width="100%" alt="Live clocks" />
 
-<p align="center">
-  <img src="https://awesometime.vercel.app/api?type=countdown&date=2026-11-20&label=3%20years%20on%20GitHub" alt="Countdown to 20 Nov 2026" />
-  &nbsp;
-  <img src="https://awesometime.vercel.app/api?type=countdown&date=2027-01-01&label=hello%202027" alt="Countdown to 2027" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://awesometime.vercel.app/api?type=countdown&date=2026-11-20&label=3%20years%20on%20GitHub" width="100%" alt="Countdown to 20 Nov 2026" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://awesometime.vercel.app/api?type=countdown&date=2027-01-01&label=hello%202027" width="100%" alt="Countdown to 2027" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://awesometime.vercel.app/api?style=gradient&width=860&label=2026%20so%20far" alt="2026 progress" width="860" />
+  <img src="https://awesometime.vercel.app/api?style=gradient&width=1200&label=2026%20so%20far" width="100%" alt="2026 progress" />
 </p>
 
 <p align="center">
   The left clock hits zero on <b>20 Nov 2026</b>. The right one opens 2027.
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f43f5e,50:f59e0b,100:22c55e&height=110&section=header&text=colors%20I%20ship%20with&fontSize=30&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%" alt="Stack" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,40:ec4899,70:0ea5e9,100:a855f7&height=110&section=header&text=the%20stack&fontSize=32&fontColor=ffffff&fontAlignY=65&animation=twinkling" width="100%" alt="The stack" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,hibernate,maven,git,github,postman,idea,linux&perline=11&theme=dark" alt="Core tools" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,html,css,nodejs,vscode&perline=6&theme=dark" alt="Also used" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security" />
-  <img src="https://img.shields.io/badge/JWT-7c3aed?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
-  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="25%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/Backend-15803d?style=for-the-badge" alt="Backend" /><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="46" height="46" alt="Java" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="46" height="46" alt="Spring" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" width="46" height="46" alt="Hibernate" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="46" height="46" alt="Maven" />
+      <img src="https://cdn.simpleicons.org/jsonwebtokens/7c3aed" width="46" height="46" alt="JWT" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="46" height="46" alt="PHP" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="46" height="46" alt="Laravel" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="46" height="46" alt="Node.js" />
+    </td>
+    <td width="25%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/Frontend-be185d?style=for-the-badge" alt="Frontend" /><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="46" height="46" alt="HTML" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="46" height="46" alt="CSS" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="46" height="46" alt="WordPress" />
+      <img src="https://cdn.simpleicons.org/shopify/7AB55C" width="46" height="46" alt="Shopify" />
+    </td>
+    <td width="25%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/Database-0369a1?style=for-the-badge" alt="Database" /><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="46" height="46" alt="MySQL" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="46" height="46" alt="PostgreSQL" />
+    </td>
+    <td width="25%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/Tools-7e22ce?style=for-the-badge" alt="Tools" /><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="46" height="46" alt="Git" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="46" height="46" alt="GitHub" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="46" height="46" alt="Postman" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="46" height="46" alt="IntelliJ" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="46" height="46" alt="VS Code" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="46" height="46" alt="Linux" />
+    </td>
+  </tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:eab308,100:ec4899&height=110&section=header&text=github%20pulse&fontSize=32&fontColor=ffffff&fontAlignY=65&animation=twinkling" width="100%" alt="GitHub pulse" />
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AhadScars&hide_border=true&background=1a1033&ring=F472B6&fire=F59E0B&currStreakLabel=FFFFFF&currStreakNum=FDE68A&sideLabels=C4B5FD&sideNums=FFFFFF&dates=F9A8D4&stroke=4C1D95" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=AhadScars&hide_border=true&background=1a1033&ring=F472B6&fire=F59E0B&currStreakLabel=FFFFFF&currStreakNum=FDE68A&sideLabels=C4B5FD&sideNums=FFFFFF&dates=F9A8D4&stroke=4C1D95" width="100%" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhadScars&theme=radical" alt="Repos by language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AhadScars&theme=radical" alt="Top language" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhadScars&theme=radical" width="98%" alt="Repos by language" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AhadScars&theme=radical" width="98%" alt="Top language" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhadScars&theme=radical" alt="Profile details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhadScars&theme=radical" width="100%" alt="Profile details" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f59e0b,50:f97316,100:ec4899&height=110&section=header&text=leetcode&fontSize=32&fontColor=ffffff&fontAlignY=65&animation=twinkling" width="100%" alt="LeetCode" />
 
 <p align="center">
   <a href="https://leetcode.com/u/wL1imqlTIm">
-    <img src="leetcode.svg" alt="Abdul Ahad on LeetCode" />
+    <img src="leetcode.svg" width="100%" alt="Abdul Ahad on LeetCode" />
   </a>
 </p>
 
