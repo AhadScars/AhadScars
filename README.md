@@ -77,6 +77,18 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhadScars&theme=radical" alt="Profile details" />
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f59e0b,50:f97316,100:ec4899&height=110&section=header&text=leetcode&fontSize=32&fontColor=ffffff&fontAlignY=65&animation=twinkling" width="100%" alt="LeetCode" />
+
+<p align="center">
+  <a href="https://leetcode.com/u/wL1imqlTIm">
+    <img src="https://leetcard.jacoblin.cool/wL1imqlTIm?theme=dark&font=JetBrains_Mono&ext=heatmap&border=0&radius=16&hide=ranking&colors=1a1033,2e1065,fde68a,ffffff,22c55e,f59e0b,f43f5e,a855f7" alt="LeetCode stats" />
+  </a>
+</p>
+
+<p align="center">
+  Solved counts and the yearly heatmap refresh on their own.
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,35:f59e0b,70:22c55e,100:6366f1&height=140&section=footer&reversal=true&animation=twinkling" width="100%" alt="" />
 
 <p align="center">
